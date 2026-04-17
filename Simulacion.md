@@ -30,7 +30,6 @@ print(f"Total de lanzamientos: {n}")
 # Probabilidades
 print("\nCara [] Frecuencia [] Probabilidad Empírica [] Probabilidad Teórica")
 print("--------------------------------------------------------------")
-
 print(f"1    [] {Uno}       [] {Uno/n:.4f}               [] 0.1667")
 print(f"2    [] {Dos}       [] {Dos/n:.4f}               [] 0.1667")
 print(f"3    [] {Tres}       [] {Tres/n:.4f}               [] 0.1667")
