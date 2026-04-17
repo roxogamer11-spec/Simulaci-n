@@ -1,11 +1,17 @@
 import random
 
 n = 10000
+
 Uno = 0
+
 Dos = 0
+
 Tres = 0
+
 Cuatro = 0
+
 Cinco = 0
+
 Seis = 0
 
 for i in range(n):
